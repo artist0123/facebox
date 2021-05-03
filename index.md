@@ -15,7 +15,7 @@
 
 กดตรงนี้ [กดซะ](https://artist0123.github.io/facebox) เพื่อเข้าไปดูหน้าเว็บจริง
 
-[กดซะ](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffreepikpsd.com%2Fel-risitas-png-transparent-images%2F709169%2F&psig=AOvVaw0SfP7nvwbVmjRphzpOUIqn&ust=1620145949970000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKCl4ZD4rfACFQAAAAAdAAAAABAD)
+![กดซะ](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffreepikpsd.com%2Fel-risitas-png-transparent-images%2F709169%2F&psig=AOvVaw0SfP7nvwbVmjRphzpOUIqn&ust=1620145949970000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKCl4ZD4rfACFQAAAAAdAAAAABAD)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
