@@ -17,14 +17,9 @@
 
 ## ส่วนประกอบของ FACE BOX
 ![cute](https://media.discordapp.net/attachments/836987530691215390/838444307361824778/solenoid-lock-12v-1.png?width=711&height=669)
-
-กลอนไฟฟ้า
 ![cute](https://media.discordapp.net/attachments/836987530691215390/838816823872323604/FT232RL-FTDI-USB-3-3V-5-5V-TTL-Serial-Adapter-Module.png?width=670&height=670)
-
-FTDI BOARD
 ![cute](https://media.discordapp.net/attachments/836987530691215390/838816825554763836/el-risitas-png-1-Transparent-Images.png)
 
-EL RISITAS
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
