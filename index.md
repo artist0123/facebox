@@ -20,7 +20,15 @@
 ![cute](https://media.discordapp.net/attachments/836987530691215390/838816823872323604/FT232RL-FTDI-USB-3-3V-5-5V-TTL-Serial-Adapter-Module.png?width=670&height=670)
 ![cute](https://media.discordapp.net/attachments/836987530691215390/838816825554763836/el-risitas-png-1-Transparent-Images.png)
 
-
+## การทำงานของ FACE BOX
+## ประโยชน์จากการใช้งาน
+## งบประมาณในการทำ
+## หมายเหตุจากผู้จัดทำ
+## รายชื่อผู้จัดทำ
+1. หนึ่ง
+2. สอง
+3. สาม
+4. สี่
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
