@@ -7,8 +7,9 @@
 ปลอดภัยต่อทรัพย์สิน เพราะใช้ใบหน้าในการปลดล็อค
 สะดวกสบายต่อการใช้งาน เนื่องจากเทคโนโลยีที่ใช้ จึงสามารถทำให้ปลดล็อกได้อย่างรวดเร็ว
 
-
-You can use the [editor on GitHub](https://github.com/artist0123/safe/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## การแก้ไขข้อมูล
+กดตรงนี้ [กดซะ](https://github.com/artist0123/safe/edit/gh-pages/index.md) เพื่อจะเข้าไปแก้ไขข้อมูล
+กดตรงนี้ [กดซะ](https://artist0123.github.io/facebox) เพื่อเข้าไปดูหน้าเว็บจริง
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
