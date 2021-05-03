@@ -9,6 +9,7 @@
 
 ## การแก้ไขข้อมูล
 กดตรงนี้ [กดซะ](https://github.com/artist0123/safe/edit/gh-pages/index.md) เพื่อจะเข้าไปแก้ไขข้อมูล
+
 กดตรงนี้ [กดซะ](https://artist0123.github.io/facebox) เพื่อเข้าไปดูหน้าเว็บจริง
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
