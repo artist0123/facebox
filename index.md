@@ -17,11 +17,15 @@
 
 ## สิ่งของที่ใช้ทำ FACE BOX
 1. ESP32 CAM -- บาท
+<img src="https://cdn.discordapp.com/attachments/836987530691215390/843548153093292102/esp32-cam-ch340_development_board.png" width="200px">
+2. Ftdi -- บาท
 <img src="https://cdn.discordapp.com/attachments/836987530691215390/838816823872323604/FT232RL-FTDI-USB-3-3V-5-5V-TTL-Serial-Adapter-Module.png" width="200px">
-3. Ftdi -- บาท
-4. Solinoid Lock -- บาท
-5. Empty Box -- บาท
-
+3. Solinoid Lock -- บาท
+<img src="https://cdn.discordapp.com/attachments/836987530691215390/838444307361824778/solenoid-lock-12v-1.png" width="200px">
+4. Empty Box -- บาท
+<img src="https://media.discordapp.net/attachments/836987530691215390/838022766132199495/image0.jpg?width=503&height=670" width="200px">
+5. Battery Slot
+<img src="https://cdn.discordapp.com/attachments/836987530691215390/843549262730100766/41.png" width="200px">
    รวมทั้งหมด -- บาท
 
 ## การทำงานของ FACE BOX
