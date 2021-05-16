@@ -20,7 +20,7 @@ ESP32 CAM 270 บาท
 
 <img src="https://cdn.discordapp.com/attachments/836987530691215390/843548153093292102/esp32-cam-ch340_development_board.png" width="200px">
 
-Ftdi -- บาท
+Ftdi 50 บาท
 
 <img src="https://cdn.discordapp.com/attachments/836987530691215390/838816823872323604/FT232RL-FTDI-USB-3-3V-5-5V-TTL-Serial-Adapter-Module.png" width="200px">
 
@@ -36,7 +36,7 @@ Battery Slot 30 บาท
 
 <img src="https://cdn.discordapp.com/attachments/836987530691215390/843549262730100766/41.png" width="200px">
 
-# รวมทั้งหมด -- บาท
+รวมทั้งหมด 655 บาท
 
 ## การทำงานของ FACE BOX
 เจ้ากล่องตัวนี้จะมีการทำงานโดยใช้ใบหน้าเพื่อปลดล็อคกลอนไฟฟ้า ก่อนที่จะใช้งานกล่องตัวนี้จะต้องมีการลงทะเบียนใบหน้าของเราก่อน เพื่อที่จะให้เจ้าตัว ESP32 CAM ตรวจสอบใบหน้าที่ถูกต้อง
