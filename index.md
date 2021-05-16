@@ -26,6 +26,7 @@
 <img src="https://cdn.discordapp.com/attachments/836987530691215390/843552113513463858/l.png" width="200px">
 5. Battery Slot 30 บาท
 <img src="https://cdn.discordapp.com/attachments/836987530691215390/843549262730100766/41.png" width="200px">
+
    รวมทั้งหมด -- บาท
 
 ## การทำงานของ FACE BOX
