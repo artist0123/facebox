@@ -22,7 +22,7 @@ Relay 12V 1ea
 
 Breadboard 1ea
 
-สายจัมพ์ ??ea
+สายจัมพ์ 1มัด
 
 ### การทำงานของ FACE BOX
 
