@@ -16,25 +16,37 @@
 กดตรงนี้ [กดซะ](https://artist0123.github.io/facebox) เพื่อเข้าไปดูหน้าเว็บจริง
 
 ## สิ่งของที่ใช้ทำ FACE BOX
-ESP32 CAM 270 บาท
+ESP32 CAM 1ea 270 บาท
 
 <img src="https://cdn.discordapp.com/attachments/836987530691215390/843548153093292102/esp32-cam-ch340_development_board.png" width="200px">
 
-Ftdi 50 บาท
+Ftdi 1ea 50 บาท
 
 <img src="https://cdn.discordapp.com/attachments/836987530691215390/838816823872323604/FT232RL-FTDI-USB-3-3V-5-5V-TTL-Serial-Adapter-Module.png" width="200px">
 
-Solinoid Lock 260 บาท
+Solinoid Lock 1ea 260 บาท
 
 <img src="https://cdn.discordapp.com/attachments/836987530691215390/838444307361824778/solenoid-lock-12v-1.png" width="200px">
 
-Empty Box 45 บาท
+Empty Box 1ea 45 บาท
 
 <img src="https://cdn.discordapp.com/attachments/836987530691215390/843552113513463858/l.png" width="200px">
 
-Battery Slot 30 บาท
+Battery 4Slot 1.5V 2ea 30 บาท
 
 <img src="https://cdn.discordapp.com/attachments/836987530691215390/843549262730100766/41.png" width="200px">
+
+Relay 12V 1ea 50บาท
+
+<img src="https://cdn.discordapp.com/attachments/836987530691215390/843575928549670922/co.png" width="200px">
+
+Breadboard 1ea ไม่กี่บาท
+
+<img src="https://cdn.discordapp.com/attachments/836987530691215390/843576670777638912/breadboard-self-adhesive-white-prt-12002-3e7.png" width="200px">
+
+สายจัมพ์ 1มัด ไม่กี่บาท
+
+<img src="https://cdn.discordapp.com/attachments/836987530691215390/843577254265356328/Jump-Wire-Female-to-Male-02.png" width="200px">
 
 รวมทั้งหมด 655 บาท
 
