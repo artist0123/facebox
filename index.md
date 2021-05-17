@@ -72,4 +72,5 @@ Breadboard 1ea ไม่กี่บาท
 4. นางสาว อนัญญา จินาพงศ์ 63070182
 
 ## อ้างอิง
----
+
+[https://www.electroniclinic.com/esp32-cam-face-recognition-door-lock-system-circuit-and-programming/](https://www.electroniclinic.com/esp32-cam-face-recognition-door-lock-system-circuit-and-programming/)
