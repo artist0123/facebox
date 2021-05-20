@@ -10,8 +10,7 @@
 
 #include "camera_pins.h"
 
-#define RED 13
-#define GREEN 14
+#define LED 4
 #define LOCK 12
 
 const char* ssid = "Undiscovered";
@@ -21,19 +20,16 @@ void startCameraServer();
 
 boolean matchFace = false;
 boolean openLock = false;
-long prevMillis=0;
-int interval = 6000;  //DELAY
+long prevMillis = 0;
+int interval = 20000;  //DELAY
 
 void setup() {
-  pinMode(LOCK,OUTPUT);
-  pinMode(RED,OUTPUT);
-  pinMode(GREEN,OUTPUT);
-  digitalWrite(LOCK,LOW);
-  digitalWrite(RED,LOW);
-  digitalWrite(GREEN,LOW);
-  
+  pinMode(LOCK, OUTPUT);
+  pinMode(LED, OUTPUT);
+  digitalWrite(LED, LOW);
+
   Serial.begin(115200);
-  Serial.setDebugOutput(true);
+    Serial.setDebugOutput(true);
   Serial.println();
 
   camera_config_t config;
@@ -58,7 +54,7 @@ void setup() {
   config.xclk_freq_hz = 20000000;
   config.pixel_format = PIXFORMAT_JPEG;
   //init with high specs to pre-allocate larger buffers
-  if(psramFound()){
+  if (psramFound()) {
     config.frame_size = FRAMESIZE_UXGA;
     config.jpeg_quality = 10;
     config.fb_count = 2;
@@ -100,9 +96,11 @@ void setup() {
   while (WiFi.status() != WL_CONNECTED) {
     delay(500);
     Serial.print(".");
+    digitalWrite(LED, HIGH);
   }
   Serial.println("");
   Serial.println("WiFi connected");
+  digitalWrite(LED, LOW);
 
   startCameraServer();
 
@@ -112,26 +110,20 @@ void setup() {
 }
 
 void loop() {
-//    digitalWrite(RED, LOW);
-//    delay(2000);
-//    digitalWrite(RED, HIGH);
-//    delay(2000);  
-  if(matchFace==true && openLock==false)
+  if (matchFace == true && openLock == false)
   {
-    openLock=true;
-    digitalWrite(LOCK,HIGH);
-    digitalWrite(GREEN,HIGH);
-    digitalWrite(RED,LOW);
-    prevMillis=millis();
-    Serial.println("-----------UNLOCK DOOR-----------");    
-   }
-   if (openLock == true && millis()-prevMillis > interval)
-   {
-    openLock=false;
-    matchFace=false;
-    digitalWrite(LOCK,LOW);
-    digitalWrite(GREEN,LOW);
-    digitalWrite(RED,HIGH);
+    openLock = true;
+    digitalWrite(LOCK, HIGH);
+
+    prevMillis = millis();
+    Serial.println("-----------UNLOCK DOOR-----------");
+  }
+  if (openLock == true && millis() - prevMillis > interval)
+  {
+    openLock = false;
+    matchFace = false;
+    digitalWrite(LOCK, LOW);
+
     Serial.println("******************LOCK DOOR******************");
-    }
+  }
 }
