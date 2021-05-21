@@ -16,12 +16,16 @@
 const char* ssid = "Undiscovered";
 const char* password = "123456789000";
 
+IPAddress local_IP(192, 168, 1, 200);
+IPAddress gateway(192, 168, 1, 1);
+IPAddress subnet(255, 255, 0, 0);
+
 void startCameraServer();
 
 boolean matchFace = false;
 boolean openLock = false;
 long prevMillis = 0;
-int interval = 20000;  //DELAY
+int interval = 30000;  //DELAY
 
 void setup() {
   pinMode(LOCK, OUTPUT);
@@ -29,7 +33,7 @@ void setup() {
   digitalWrite(LED, LOW);
 
   Serial.begin(115200);
-    Serial.setDebugOutput(true);
+  Serial.setDebugOutput(true);
   Serial.println();
 
   camera_config_t config;
@@ -90,6 +94,9 @@ void setup() {
   s->set_vflip(s, 1);
   s->set_hmirror(s, 1);
 #endif
+  if (!WiFi.config(local_IP, gateway, subnet)) {
+    Serial.println("STA Failed to configure");
+  }
 
   WiFi.begin(ssid, password);
 
@@ -116,7 +123,7 @@ void loop() {
     digitalWrite(LOCK, HIGH);
 
     prevMillis = millis();
-    Serial.println("-----------UNLOCK DOOR-----------");
+    Serial.println("-----------UNLOCKED-----------");
   }
   if (openLock == true && millis() - prevMillis > interval)
   {
@@ -124,6 +131,6 @@ void loop() {
     matchFace = false;
     digitalWrite(LOCK, LOW);
 
-    Serial.println("******************LOCK DOOR******************");
+    Serial.println("************LOCKED************");
   }
 }
