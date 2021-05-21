@@ -32,4 +32,4 @@ Breadboard 1ea
 
 **สุดท้ายนี้ขอฝาก github.io เพื่อเข้าไปชมรายละเอียดเพิ่มเติมอีกสักเล็กน้อยได้ที่นี่เลยครับ [Click](https://artist0123.github.io/facebox)**
 
-<img src="https://i.imgur.com/8UB8H79.png" width="1000" height="1300">
+<img src="https://cdn.discordapp.com/attachments/818845560462639136/845373077688287292/FACE_BOX.png" width="1000" height="1300">
