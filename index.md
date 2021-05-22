@@ -76,3 +76,5 @@ Breadboard 1ea ไม่กี่บาท
 ## อ้างอิง
 
 [https://www.electroniclinic.com/esp32-cam-face-recognition-door-lock-system-circuit-and-programming/](https://www.electroniclinic.com/esp32-cam-face-recognition-door-lock-system-circuit-and-programming/)
+
+<img src="https://cdn.discordapp.com/attachments/818845560462639136/845373077688287292/FACE_BOX.png" width="1000" height="1300">
