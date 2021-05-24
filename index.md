@@ -70,6 +70,8 @@ Breadboard 1ea ไม่กี่บาท
 
 ดูเพิ่มเติม [Click](https://github.com/artist0123/facebox/tree/main/facebox)
 
+วิธีการใช้งาน [Click](https://drive.google.com/file/d/1tQHXPl30kDPv35uSTiAvSsicT9zrKZjt/view?usp=sharing)
+
 
 ## ประโยชน์จากการใช้งาน
 
