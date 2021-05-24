@@ -33,6 +33,8 @@ Breadboard 1ea
 
 เจ้ากล่องตัวนี้จะมีการทำงานโดยใช้ใบหน้าเพื่อปลดล็อคกลอนไฟฟ้า ก่อนที่จะใช้งานกล่องตัวนี้จะต้องมีการลงทะเบียนใบหน้าของเราก่อน เพื่อที่จะให้เจ้าตัว ESP32 CAM ตรวจสอบใบหน้าที่ถูกต้อง
 
+**วิธีการใช้งาน [Click](https://drive.google.com/file/d/1tQHXPl30kDPv35uSTiAvSsicT9zrKZjt/view?usp=sharing)
+
 **สุดท้ายนี้ขอฝาก github.io เพื่อเข้าไปชมรายละเอียดเพิ่มเติมอีกสักเล็กน้อยได้ที่นี่เลยครับ [Click](https://artist0123.github.io/facebox)**
 
 <img src="https://cdn.discordapp.com/attachments/818845560462639136/845373077688287292/FACE_BOX.png" width="1000" height="1300">
